@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'FiraCode';
-    src: url("/css/FiraCode-VariableFont_wght.ttf"), format("tff");
+    src: url("/css/FiraCode-VariableFont_wght.ttf");
     font-display: swap;
 }
 
@@ -12,7 +12,7 @@ body {
     width: 100vw;
     display: flex;
     flex-direction: column;
-    font-family: FiraCode;
+    font-family: FiraCode, sans-serif;
     overflow-x: hidden;
     background-color: #1e1e1e;
     color: white;
@@ -25,12 +25,16 @@ main {
 }
 
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     margin: 20px;
     margin-top: 40px;
 }
 
-h1, h2 {
+h1,
+h2 {
     text-align: center;
 }
 
@@ -61,12 +65,13 @@ li {
 /* Images */
 
 img {
-    width: 80%;
-    border-radius: 10px;
-    box-shadow: 0 0 20px white;
     display: block;
+    width: 80%;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 20px white;
 }
 
 .code-view {
@@ -80,10 +85,10 @@ img {
 
 #nav {
     display: block;
-    text-align: center; 
+    text-align: center;
 }
 
-#nav a { 
+#nav a {
     padding: 20px;
     display: inline-block;
     text-decoration: none;
@@ -99,7 +104,7 @@ img {
     text-align: center;
 }
 
-#footer a { 
+#footer a {
     padding: 10px;
     display: inline-block;
     text-decoration: none;

@@ -5,7 +5,7 @@ heading: Compete
 
 The main contest-series in which we participate is [ICPC](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest), which stands for International Collegiate Programming Contest. In it, student teams of 3 travel to different competitions, working to solve algorithmic problems under time pressure.
 
-![UW Team at ICPC Contest](/img/programmers-2022.webp "Nathan Akkaraphab, Milin Kodnongbua, and Phawin Prongpaophan qualified for the ICPC World Finals in 2022")
+<img src="/img/programmers-2022.webp" width="1280" height="960" alt="UW Team at ICPC Contest" title="Nathan Akkaraphab, Milin Kodnongbua, and Phawin Prongpaophan qualified for the ICPC World Finals in 2022">
 
 ## ICPC Progression
 
