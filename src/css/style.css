@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'FiraCode';
-    src: url(/css/FiraCode-VariableFont_wght.ttf);
+    src: url("/css/FiraCode-VariableFont_wght.ttf"), format("tff");
+    font-display: swap;
 }
 
 /* General */
