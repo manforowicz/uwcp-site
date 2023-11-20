@@ -11,7 +11,7 @@ Here's our list of helpful links and resources related to competitive programmin
 - Feel free to suggest more resources!
 
 ## Online judges (OJ)
-#### (Practice websites)
+*(Practice websites)*
 
 - [Codeforces](https://codeforces.com/)
 - [AtCoder](http://atcoder.jp/)
@@ -42,26 +42,17 @@ Here's our list of helpful links and resources related to competitive programmin
 
 ## Seasonal contests
 
-- ICPC. For UW (dates tentative) 2023:
-    - Jan 28: UW Winter Programming Contest: Form your own teams of 3, open to all UW teams! Prize money for Top 10
-    - Feb 25: Pacific Northwest Region Programming Contest: Top 6 UW teams only
-    - ???: North American Championship (nationals): Top 1 UW team only
-    - ???: ICPC World Finals: Top = 1 UW team only
-- [Google's Coding Competitions](https://codingcompetitions.withgoogle.com/)
-    - Google Code Jam: annual multi-round contest
-    - Google Hash Code: annual two-round heuristic contest
-    - Google Kick Start: many independent rounds every year
 - Meta (Facebook) [Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup)
     - Annual multi-round contest
 - [Advent of Code](https://adventofcode.com/): casual daily problems for 25 days every December
 
 ## Problem creation
-#### (Create your own problems here!)
+*(Create your own problems here!)*
 
 - [Polygon](https://polygon.codeforces.com/): Can host problems directly on Codeforces
 
 ## Problem checklist
-#### (Maintain which problems you have solved/are working on etc)
+*(Maintain which problems you have solved/are working on etc)*
 
 - [OI Checklist](https://oichecklist.pythonanywhere.com/)
 - [Codeforces Checklist](https://cf.kira924age.com/)
