@@ -8,8 +8,8 @@ Hi! We're a group of students at the University of Washington passionate about c
 Competitive programming is about racing to write programs that efficiently convert some input to an output. For example, this C++ program returns the sum of n integers: 
 
 
-<pre class="code-view">
- <code id="htmlViewer" style="color:rgb(220, 220, 220); font-weight:400;background-color:rgb(30, 30, 30);background:rgb(30, 30, 30);display:block;padding: .5em;"><span style="color:rgb(155, 155, 155); font-weight:400;">#<span style="color:rgb(86, 156, 214); font-weight:400;">include</span> <span style="color:rgb(214, 157, 133); font-weight:400;">&lt;bits/stdc++.h&gt;</span></span>
+<pre class="code-container">
+ <code class="code" style="color:rgb(220, 220, 220); font-weight:400;background-color:rgb(30, 30, 30);background:rgb(30, 30, 30);display:block;padding: .5em;"><span style="color:rgb(155, 155, 155); font-weight:400;">#<span style="color:rgb(86, 156, 214); font-weight:400;">include</span> <span style="color:rgb(214, 157, 133); font-weight:400;">&lt;bits/stdc++.h&gt;</span></span>
 <span style="color:rgb(86, 156, 214); font-weight:400;">using</span> <span style="color:rgb(86, 156, 214); font-weight:400;">namespace</span> std;
 
 <span style="color:rgb(220, 220, 220); font-weight:400;"><span style="color:rgb(78, 201, 176); font-weight:400;">int</span> <span style="color:rgb(220, 220, 220); font-weight:400;">main</span><span style="color:rgb(220, 220, 220); font-weight:400;">()</span> </span>{
