@@ -19,8 +19,9 @@ body {
 }
 
 main {
-    max-width: 95%;
+    max-width: min(95%, 800px);
     flex: 1;
+    align-items: center;
 }
 
 h1 {
@@ -41,7 +42,6 @@ h4 {
 
 
 p {
-    max-width: 800px;
     line-height: 1.8;
 }
 
