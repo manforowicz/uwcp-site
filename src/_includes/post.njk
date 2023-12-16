@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+
+
+<small><em class="article-info">
+    <address>By {{ author }}</address> on <time pubdate datetime="{{ page.date }}" title="{{ page.date }}">{{ page.date | showDate }}</time>
+</em></small>
+
+{{ content | safe }}

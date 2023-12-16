@@ -5,7 +5,10 @@ heading: ICPC
 
 The main contest series in which we participate is [ICPC](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest), which stands for International Collegiate Programming Contest. In it student teams of 3 travel to competitions to solve algorithmic problems under time pressure.
 
-<img src="/img/programmers-2022.webp" width="1280" height="960" alt="UW Team at ICPC Contest" title="Nathan Akkaraphab, Milin Kodnongbua, and Phawin Prongpaophan qualified for the ICPC World Finals in 2022">
+<figure>
+<img src="/img/programmers-2022.webp" width="1280" height="960" alt="UW Team at ICPC Contest">
+<figcaption>Congratulations to Nathan Akkaraphab, Phawin Prongpaophan, <a href="https://homes.cs.washington.edu/~voreis/">Coach Victor Reis</a>, and Milin Kodnongbua, who qualified for the ICPC World Finals in 2022!</figcaption>
+</figure>
 
 ## ICPC Progression
 
@@ -17,7 +20,10 @@ A series of ICPC contests is held each year. The best teams from each contest pr
 
 - This is where everyone starts! It's a fun experience open to everyone.
 - Form a team of 3, and join our [Discord](https://discord.gg/WsNeTMX3pE) to learn how to sign up.
-- Top 10 teams earn prize money!
+- Bring and use only 1 laptop per team.
+- Internet copy-pasting allowed.
+- Practice with [problems](https://codeforces.com/group/CByQ2cxyiu) from previous years.
+- Our ICPC coach (and UW contest host) starting from 2024 is Milin Kodnongbua ([milink@cs.washington.edu](mailto:milink@cs.washington.edu)).
 - Top 6 teams advance to the next level (this may change every year).
 
 

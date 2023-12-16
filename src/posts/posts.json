@@ -1,0 +1,8 @@
+{
+    "layout": "post.njk",
+    "permalink": "{{ page.fileSlug }}/index.html",
+    "author": "unknown",
+    "tags": "post",
+    "title": "UW Competitive Programming",
+    "heading": "Untitled"
+}
