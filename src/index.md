@@ -5,7 +5,7 @@ heading: UW Competitive Programming Club
 
 Hi! We're a group of students at the University of Washington passionate about competitive programming and problem solving.
 
-Enough talk, let's see an example! Check out this [CSES problem](https://cses.fi/problemset/task/1621/) which asks you to output how many distinct values are in a given list. In case you're stuck, here's one possible approach:
+Check out this [CSES problem](https://cses.fi/problemset/task/1621/) which asks you to output how many distinct values are in a given list. In case you're stuck, here's one possible approach:
 
 ```cpp
 // C++
@@ -44,7 +44,7 @@ This code inserts the given values into a set. A set is a data structure that ig
 
 ## Participate
 
-Was that interesting? Then give our weekly online practice [contests](https://vjudge.net/group/uw-cp-club) a try! Come to our in-person meetings in Savery Hall to discuss solutions. Everyone is welcome to show up! Our [Discord](https://discord.gg/KkyKMrfs) has instructions on how to participate as well as meeting time and location. We also encourage members to form teams and participate in our local winter [ICPC](/icpc/) contest!
+Was that interesting? Then give our weekly online practice [contests](https://vjudge.net/group/uw-cp-club) a try! Come to our in-person meetings in Savery Hall to discuss solutions. Everyone is welcome to show up! Our [Discord]({{ data.discord_link }}) has instructions on how to participate as well as meeting time and location. We also encourage members to form teams and participate in our local winter [ICPC](/icpc/) contest!
 
 ## Learn
 
@@ -53,4 +53,4 @@ Want to become a competitive programmer but don't know where to start? We sugges
 And just for fun, here's a programming quote that changes daily:
 
 <blockquote id="typing-animation">Quote</blockquote>
-<script src="/js/typing-animation.js" defer></script>
+<script src="/assets/typing-animation.js" defer></script>

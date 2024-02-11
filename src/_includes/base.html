@@ -9,29 +9,27 @@
         content="University of Washington Competitive Programming Club, UW, Olympiad, Registered Student Organization, RSO, Huskylink, Competition, Contest, Coding, Education, ICPC, Sport Programming">
     <meta name="author" content="UW Competitive Programming Club">
     <title>{{ title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="/css/prism.css">
+    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="stylesheet" href="/assets/prism.css">
 </head>
-
-{% macro active(name) %}{% if name == page.url %}class="active"{% endif %}{% endmacro %}
 
 <body>
     <header>
         <nav id="nav">
-            <a {{ active('/') }} href="/">HOME</a>
-            <a {{ active('/icpc/') }} href="/icpc/">ICPC</a>
-            <a {{ active('/resources/') }} href="/resources/">RESOURCES</a>
-            <a {{ active('/posts/') }} href="/posts/">POSTS</a>
+            <a {% if "/" == page.url -%}class="active"{%- endif %} href="/">HOME</a>
+            <a {% if "/icpc/" == page.url -%}class="active"{%- endif %} href="/icpc/">ICPC</a>
+            <a {% if "/resources/" == page.url -%}class="active"{%- endif %} href="/resources/">RESOURCES</a>
+            <a {% if "/posts/" == page.url -%}class="active"{%- endif %} href="/posts/">POSTS</a>
         </nav>
     </header>
     <main>
         <h1>{{ heading }}</h1>
-        {{ content | safe }}
+        {{ content }}
     </main>
 </body>
 <footer id="footer">
     <a rel="noopener noreferrer" href="https://huskylink.washington.edu/organization/programming">Huskylink</a>
-    <a rel="noopener noreferrer" href="https://discord.gg/KkyKMrfs">Discord</a>
+    <a rel="noopener noreferrer" href="{{ data.discord_link }}">Discord</a>
     <address>
         <a href="mailto:compprog@uw.edu">Email: compprog@uw.edu</a>
         <a href="mailto:junxingg@uw.edu">Leader: junxingg@uw.edu</a>
