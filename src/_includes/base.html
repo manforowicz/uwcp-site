@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="University of Washington Competitive Programming Club RSO">
+    <meta name="keywords"
+        content="University of Washington Competitive Programming Club, UW, Olympiad, Registered Student Organization, RSO, Huskylink, Competition, Contest, Coding, Education, ICPC, Sport Programming">
+    <meta name="author" content="UW Competitive Programming Club">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="stylesheet" href="/assets/prism.css">
+</head>
+
+<body>
+    <header>
+        <nav id="nav">
+            <a {% if "/" == page.url -%}class="active"{%- endif %} href="/">HOME</a>
+            <a {% if "/icpc/" == page.url -%}class="active"{%- endif %} href="/icpc/">ICPC</a>
+            <a {% if "/resources/" == page.url -%}class="active"{%- endif %} href="/resources/">RESOURCES</a>
+            <a {% if "/posts/" == page.url -%}class="active"{%- endif %} href="/posts/">POSTS</a>
+        </nav>
+    </header>
+    <main>
+        <h1>{{ heading }}</h1>
+        {{ content }}
+    </main>
+</body>
+<footer id="footer">
+    <a rel="noopener noreferrer" href="https://huskylink.washington.edu/organization/programming">Huskylink</a>
+    <a rel="noopener noreferrer" href="{{ data.discord_link }}">Discord</a>
+    <address>
+        <a href="mailto:compprog@uw.edu">Email: compprog@uw.edu</a>
+        <a href="mailto:junxingg@uw.edu">Leader: junxingg@uw.edu</a>
+        <a href="mailto:milink@cs.washington.edu">Coach: milink@cs.washington.edu</a>
+    </address>
+    <br><br>
+    <small><a rel="noopener noreferrer" href="https://github.com/manforowicz/uwcp-site">Site by Marcin
+            Anforowicz</a></small>
+</footer>
+
+</html>

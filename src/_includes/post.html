@@ -1,0 +1,10 @@
+---
+layout: base.html
+---
+
+
+<small><em>
+    <address>By {{ author }}</address> on <time pubdate datetime="{{ page.date }}" title="{{ page.date }}">{{ page.date | showDate }}</time>
+</em></small>
+
+{{ content }}
