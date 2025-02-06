@@ -21,6 +21,7 @@ const QUOTES = [
     `"Programming is not about typing, it's about thinking." - Rich Hickey`,
     `"In programming, the hard part isn't solving problems but deciding what problems to solve." - Paul Graham`,
     `"Testing can only prove the presence of bugs, not their absence." - Edsger W. Dijkstra`,
+    `"Finding your bug is a process of confirming the many things you believe are true, until you find one which is not true." - Norman Matloff`
 ]
 
 class TxtType {
