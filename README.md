@@ -1,10 +1,11 @@
-# [UW Competitive Programming Club Website](https://uw-programming.netlify.app/)
+# uwcp-site
 
-Website for the UW's Competitive Programming Club ([RSO Huskylink](https://huskylink.washington.edu/organization/programming)).
+https://uw-programming.netlify.app/
 
-Designed and maintained by [Marcin Anforowicz](https://manforowicz.github.io/).
+Website for the UW's Competitive Programming Club
 
-Submit an [issue](https://github.com/manforowicz/uwcp-site/issues) if you'd like to add or change anything!
+The website will automatically reflect changes to the markdown in the `src` folder.
 
-## Techincal
+Email Marcin Anforowicz (manforowicz@gmail.com) to get edit permissions.
+
 Statically served from [Netlify](https://www.netlify.com/) which automatically builds a static site using [Eleventy](https://www.11ty.dev/).

@@ -1,7 +1,7 @@
 ---
-title: Rust - UW Competitive Programming
-heading: Competing with Rust
+title: Competing with Rust
 author: Marcin Anforowicz
+date: 2025-02-06
 ---
 
 [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) is a programming language that is gaining in popularity.
@@ -90,4 +90,3 @@ fn main() {
 ```
 
 Rust's [standard library](https://doc.rust-lang.org/std/collections/) has common data structures including hash map, btree map, and deque.
-Good luck competing in Rust! 🦀

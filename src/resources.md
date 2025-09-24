@@ -1,6 +1,5 @@
 ---
-title: Resources - UW Competitive Programming
-heading: Resources
+title: Resources
 ---
 
 Here's our list of helpful resources related to competitive programming. Feel free to suggest more!

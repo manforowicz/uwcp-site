@@ -16,27 +16,27 @@ body {
 }
 
 main {
-    max-width: min(95%, 800px);
+    width: 95%;
+    max-width: 50rem;
     margin: auto;
     flex: 1;
 }
 
 h1 {
-    margin-bottom: 50px;
     text-align: center;
+    margin-bottom: 1.5em;
 }
 
 h2 {
     text-align: center;
     border-bottom: 1px solid #6e6e6e;
-    padding-bottom: 5px;
+    padding-bottom: 0.3em;
 }
 
-h1,
 h2,
 h3,
 h4 {
-    margin-top: 40px;
+    margin-top: 2em;
 }
 
 
@@ -61,22 +61,11 @@ a:hover {
     text-shadow: 0 0 8px white;
 }
 
-#typing-animation {
-    text-align: center;
-    font-style: italic;
-    line-height: 1.4em;
-    max-width: 500px;
-    min-height: 65px;
-    margin: 60px auto 60px auto;
-    padding: 20px;
-    border-top: solid 1px;
-    border-bottom: solid 1px;
-    border-left: none;
-}
 
 blockquote {
+    margin: 1em;
+    padding: 1em;
     border-left: solid;
-    padding: 5px;
     font-style: italic;
 }
 
@@ -104,7 +93,7 @@ figure {
 
 img {
     display: block;
-    width: 100%;
+    max-width: 100%;
     height: auto;
     border-radius: 15px;
     box-shadow: 0 0 20px black;
@@ -117,20 +106,20 @@ figcaption {
 }
 
 
-/* Navigation bar */
+/* Navbar */
 
-#nav {
+#navbar {
     text-align: center;
 }
 
-#nav a {
+#navbar a {
     padding: 20px;
     display: inline-block;
     text-decoration: none;
 }
 
-.active {
-    font-weight: 600;
+#navbar .active {
+    font-weight: bold;
 }
 
 /* Footer */
