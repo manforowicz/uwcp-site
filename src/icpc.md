@@ -4,46 +4,39 @@ title: ICPC
 
 Every year, student teams of 3 participate in ICPC (International Collegiate Programming Contest).
 
-## ICPC Progression
+## Getting involved at UW
 
-A series of ICPC contests is held each year. The best teams from each contest progress to the next level. For up-to-date instructions and announcements, please join our [Discord]({{ data.discord_link }}).
+Join our [Discord]({{ data.discord_link }}) for team formation, UW contest announcements, and this season's selection and registration instructions.
+You can practice with [past UW Winter Programming Contest problems](https://codeforces.com/group/CByQ2cxyiu).
+Local contest dates and rules are announced separately each season.
 
-### 1. January - [UW Winter Programming Contest](https://codeforces.com/group/CByQ2cxyiu)
+## Upcoming: 2026–2027 season
 
-*Local UW Seattle Contest*
+The school round will happen in early November, and the Pacific Northwest Regional is scheduled for November 14, 2026.
 
-- This is where everyone starts! It's a fun experience open to everyone.
-- Form a team of 3, and join our [Discord]({{ data.discord_link }}) to learn how to sign up.
-- Bring and use only 1 laptop per team.
-- Internet copy-pasting allowed.
-- Practice with [problems](https://codeforces.com/group/CByQ2cxyiu) from previous years.
-- The top teams advance to the next level.
+## ICPC progression
 
+### 1. [Pacific Northwest Regional](https://pnw.na.icpc.global/)
 
-### 2. February - [Regionals](http://www.acmicpc-pacnw.org/)
+UW teams compete in the Pacific Northwest region, with contests held at multiple sites. Qualifying teams advance to the North America Championship under the season's official advancement rules.
 
-*Pacific Northwest Regional Programming Contest*
+### 2. [North America Championship (NAC)](https://nac.icpc.global/)
 
-- Usually held at UW Tacoma.
-- At most 1 team from each college advances to the next level.
+Teams from across North America compete for places at the World Finals. The 2026 NAC took place March 19–22 at the University of Central Florida in Orlando; future dates are announced by the organizers.
 
+### 3. [World Finals](https://worldfinals.icpc.global/)
 
-### 3. May-June - [Nationals](https://nac.icpc.global/)
-
-*North American Championship*
-
-- The top teams advance to the next level.
-
-
-### 4. Latter half of the year - [World Finals](https://icpc.global/worldfinals/worldfinals)
-
-- Competition with the best student teams in the world.
+Qualifying teams compete against universities from around the world. The 2026 World Finals will be held in Dubai.
 
 ## ICPC Awards
 
+### 2026
+
+Congratulations to Jiahe Lu, Rico Qi, Akram Rakhmetulla, and coach Kaiyuan Liu, who placed 1st at the Pacific Northwest Regional in November 2025 and 10th at the North America Championship in March 2026, qualifying for the 2026 World Finals!
+
 ### 2024
 
-Congratuations to Jun Xing Go, Kaiyuan Liu, Rico Qi, and coach Milin Kodnongbua, who achieved 57th place out of 142 in ICPC World Finals 2024!
+Congratulations to Jun Xing Go, Kaiyuan Liu, Rico Qi, and coach Milin Kodnongbua, who achieved 57th place out of 142 in ICPC World Finals 2024!
 
 ### 2022
 
