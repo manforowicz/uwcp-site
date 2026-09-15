@@ -34,6 +34,8 @@ Qualifying teams compete against universities from around the world. The 2026 Wo
 
 Congratulations to Jiahe Lu, Rico Qi, Akram Rakhmetulla, and coach Kaiyuan Liu, who placed 1st at the Pacific Northwest Regional in November 2025 and 10th at the North America Championship in March 2026, qualifying for the 2026 World Finals!
 
+<img src="/assets/programmers-2026.png" width="2000" height="1296" alt="UW team competing at the 2026 ICPC North America Championship" loading="lazy">
+
 ### 2024
 
 Congratulations to Jun Xing Go, Kaiyuan Liu, Rico Qi, and coach Milin Kodnongbua, who achieved 57th place out of 142 in ICPC World Finals 2024!
