@@ -1,8 +1,8 @@
 ---
-title: Posts
+title: Post archive
 ---
 
-For up-to-date announcements, please join our [Discord]({{ data.discord_link }}).
+These articles are archived and may not reflect current recommendations. For up-to-date announcements, please join our [Discord]({{ data.discord_link }}).
 
 <ul>
 {% for post in collections.post %}
